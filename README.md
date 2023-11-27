@@ -14,9 +14,11 @@ NOTE : I am not entirely sure about the safety regarding copying a file into `/u
 
 # Output
 1.  Just obtaining all prime factors (or known factors depending on status)
-   ![exec](https://github.com/Ashuvwxyz/FactorDB-cli/assets/92919909/9a7bddb4-52be-47c0-a8af-c14a42dbedac)
+
+![exec](https://github.com/Ashuvwxyz/FactorDB-cli/assets/92919909/9a7bddb4-52be-47c0-a8af-c14a42dbedac)
 
 2.  Obtain all prime factors and verify status (View code to understand more about statuses)
-   ![exec_chk](https://github.com/Ashuvwxyz/FactorDB-cli/assets/92919909/83969e2a-7892-4c3a-a45d-1074c629e2bd)
+
+![exec_chk](https://github.com/Ashuvwxyz/FactorDB-cli/assets/92919909/83969e2a-7892-4c3a-a45d-1074c629e2bd)
 
 
